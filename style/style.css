@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+.ganateba{
+    width: 800px;
+    margin: 50px auto;
+}
+.gilaki{
+    padding: 14px 30px;
+    text-align: center;
+    background-color: #c6c6c6;
+    border-radius: 18px;
+    cursor: pointer;
+}
+.mwvane:hover{
+    background-color: #5aff1e;
+}
+.witeli:hover{
+    background-color: #ff1e1e;
+}
+.didigilaki{
+    width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    text-align: center;
+    background-color: #c6c6c6;
+}
